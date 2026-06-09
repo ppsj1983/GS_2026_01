@@ -70,7 +70,7 @@ Neste trabalho utilizamos duas fontes principais de dados, sendo
 ├── 📂 Dados NOAA (Monitoramento e medições mensais da temperatura do oceano Pacífico)
 │   ├── 📂 tab: DADOS_NOAA
 ```
-
+As imagens a seguir apresentam a estrutura de informações e tabelas de banco de dados
 ---
 
 ## 📋 Licença
