@@ -72,6 +72,31 @@ Neste trabalho utilizamos duas fontes principais de dados, sendo
 ```
 As imagens a seguir apresentam a estrutura de informações e tabelas de banco de dados
 ---
+<p align="center">
+<img width="507" height="530" alt="Image" src="https://github.com/user-attachments/assets/58d1eba3-32b9-4279-9f8d-c3724a822db3" /></a>
+</p>
+
+<p align="center">
+<img width="753" height="510" alt="Image" src="https://github.com/user-attachments/assets/6dd46d1a-4be1-40d5-b001-818982be1484" /></a>
+</p>
+
+<p align="center">
+<img width="722" height="292" alt="Image" src="https://github.com/user-attachments/assets/fdf7b7a3-376b-4462-8c0a-487f97f38b3c" /></a>
+</p>
+
+<p align="center">
+<img width="769" height="263" alt="Image" src="https://github.com/user-attachments/assets/87ea4157-f3cf-4a95-b726-9c8b2bac5177" /></a>
+</p>
+
+<p align="center">
+<img width="1295" height="555" alt="Image" src="https://github.com/user-attachments/assets/d7df3923-8161-48aa-be53-6944dc8a4525" /></a>
+</p>
+
+<p align="center">
+<img width="254" height="428" alt="Image" src="https://github.com/user-attachments/assets/24ddeb23-cb5c-47f3-8906-9227ecda07e8" /></a>
+</p>
+
+
 
 ## 📋 Licença
 
