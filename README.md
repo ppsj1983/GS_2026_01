@@ -51,9 +51,9 @@ Este trabalho tem como objetivo:
 
 Neste trabalho utilizamos duas fontes principais de dados, sendo
 
-<a href="https://bdmep.inmet.gov.br/">Banco de Dados Meteorológicos do INMET </a>:  Cadastro de estações metereologicas, com posição geográfica e histórico com dados climatologicos desde ano 2000
+<a href="https://bdmep.inmet.gov.br/">Banco de Dados Meteorológicos do INMET </a>:  Cadastro de estações meteorológicas com localização geográfica e histórico de dados climatológicos desde o ano 2000.
 
-<a href="https://www.cpc.ncep.noaa.gov/">NOAA Climate Prediction Center</a>: Medições mensais de temperatuva do oceano Pacifico
+<a href="https://www.cpc.ncep.noaa.gov/">NOAA Climate Prediction Center</a>: Monitoramento e medições mensais da temperatura do oceano Pacífico.
 ```bash
 📂 FIAP-GRAD-ON-IA
 │
