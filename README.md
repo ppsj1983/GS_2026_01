@@ -55,24 +55,20 @@ Neste trabalho utilizamos duas fontes principais de dados, sendo
 
 <a href="https://www.cpc.ncep.noaa.gov/">NOAA Climate Prediction Center</a>: Monitoramento e medições mensais da temperatura do oceano Pacífico.
 ```bash
-📂 FIAP-GRAD-ON-IA
+📂 Global Solution 1º Semestre 2026
 │
-├── 📂 ANO1
-│   ├── 📂 FASE1
-│   │   ├── 📂 NOME-DA-ATIVIDADE1
-│   │   ├── 📂 NOME-DA-ATIVIDADE2
-│   │   ├── 📂 NOME-DA-ATIVIDADE3
-│   ├── 📂 FASE2
-│   ├── 📂 FASE3
-│   └── 📂 ...
-│
-├── 📂 ANO2
-│   ├── 📂 FASE1
-│   ├── 📂 FASE2
-│   ├── 📂 FASE3
-│   └── 📂 ...
-│
-└── README.md
+├── 📂 Dados INMET
+│   ├── 📂 DADOS CONSOLIDADOS BRUTOS (Informações de estações metereologicas do Brasil, dados desde 2000, aproximadamente 170 mil registros armazenados)
+│   │   ├── 📂 tab: DADOS_CLIMA_GS_2026_S1 
+│   ├── 📂 DADOS TRABALHADOS (limpeza de registros duplicados, valores nulos ou outliers)
+│   |   ├── 📂 tab: HISTORICO_CHUVA
+│   |   ├── 📂 tab: HISTORICO_TEMPERATURA
+│   |   ├── 📂 tab: HISTORICO_UMIDADE
+│   |   ├── 📂 tab: HISTORICO_VENTO
+│   └── 📂 CADASTRO DE ESTAÇÕES METEREOLOGICAS (Informações de todas as estações metereologicas ativas, posição geografica, altitude e distancia para a faixa do Equador)
+│   |   ├── 📂 tab: DF_CADASTRO_ESTACOES
+├── 📂 Dados NOAA (Monitoramento e medições mensais da temperatura do oceano Pacífico)
+│   ├── 📂 tab: DADOS_NOAA
 ```
 
 ---
