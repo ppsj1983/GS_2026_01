@@ -33,19 +33,17 @@ Por outro lado, a La Niña torna o clima no Rio Grande do Sul mais seco, o que �
 <p align="center">
 <img width="785" height="480" alt="Image" src="https://github.com/user-attachments/assets/2b081288-cead-489a-8ddc-b60f85c65ff5" /></a>
 </p>
-Este repositório funciona como um **portfólio técnico estruturado**, evidenciando domínio progressivo das competências exigidas na formação.
-
 ---
 
 ## 🎯 Objetivo
 
-Organizar e versionar todo o fluxo de desenvolvimento acadêmico, garantindo:
+Este trabalho tem como objetivo:
 
-- 📌 Organização e rastreabilidade das entregas
-- 📌 Evolução contínua do conhecimento
-- 📌 Documentação clara e técnica
-- 📌 Reprodutibilidade dos experimentos
-- 📌 Portfólio profissional estruturado
+- 📌 Criar estrutura de dados armazenamento de informações climaticas históricas
+- 📌 Processar informações de clima e condições climaticas
+- 📌 Aplicar conceitos de machine learning para previsão de chuvas e identificação de áreas criticas expostas a eventos climaticos
+- 📌 Análise de Dados
+- 📌 Apresentações Graficas e Mapas
 
 ---
 
