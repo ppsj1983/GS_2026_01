@@ -30,7 +30,9 @@ As variações de temperatura do oceano Pacífico influenciam diretamente o clim
 
 Por outro lado, a La Niña torna o clima no Rio Grande do Sul mais seco, o que é favorável para o cultivo de trigo. De acordo com o meteorologista, as condições para o cultivo desse cereal podem ser até melhores do que em anos neutros, já que, além de haver um pouco menos de chuva, as ondas de frio ocorrem com mais frequência. A diminuição da temperatura não costuma ser drástica a ponto de causar geadas. Na região Sul, assim como no litoral de São Paulo e do Rio de Janeiro, as temperaturas geralmente caem sob a influência da La Niña. "Tanto as mínimas quanto as máximas ficam mais baixas", explica Celso. No entanto, em muitas regiões produtoras do interior do Sudeste e do Centro-Oeste, os anos de La Niña apresentam uma maior amplitude térmica: tardes quentes, mas noites e madrugadas mais frias do que a média. "Isso ocorre porque a La Niña torna o clima de outono e inverno ainda mais seco no interior do país. Inclusive, a seca que experimentamos no primeiro semestre foi um resquício de sua última atuação".
 - ...
-
+<p align="center">
+<img width="785" height="480" alt="Image" src="https://github.com/user-attachments/assets/2b081288-cead-489a-8ddc-b60f85c65ff5" /></a>
+</p>
 Este repositório funciona como um **portfólio técnico estruturado**, evidenciando domínio progressivo das competências exigidas na formação.
 
 ---
