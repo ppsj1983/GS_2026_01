@@ -112,7 +112,7 @@ Imagem abaixo demonstra a estrutura do banco de dados, neste projeto, utilizamos
 <img width="254" height="428" alt="Image" src="https://github.com/user-attachments/assets/24ddeb23-cb5c-47f3-8906-9227ecda07e8" /></a>
 </p>
 
-```bash
+
 ```
 ## 🧠 Processamento de Informações
 ---
