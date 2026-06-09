@@ -116,22 +116,37 @@ Imagem abaixo demonstra a estrutura do banco de dados, neste projeto, utilizamos
 ```
 ## 🧠 Processamento de Informações
 ---
-No arquivo DADOS_INMET_NOAA.ipynb realizamos todo o processamento das informações e atualização das tabelas, durante cada etapa, inserimos testes para monitoramento de cada passo, conforme demonstrado a seguir
+No arquivo *DADOS_INMET_NOAA.ipynb* realizamos todo o processamento das informações e atualização das tabelas, durante cada etapa, inserimos testes para monitoramento de cada passo, conforme demonstrado a seguir
 
-DADOS_CLIMA_GS_206_S1
+*DADOS_CLIMA_GS_206_S1:* Processamento de arquivos CSV's extraidos de <a href="https://bdmep.inmet.gov.br/">Banco de Dados Meteorológicos do INMET </a>, nesta etapa foram processados 10046
 
-DF_CADASTRO_ESTACOES
+<p align="center">
+<img width="766" height="673" alt="Image" src="https://github.com/user-attachments/assets/e3026f43-d615-45bf-90d5-a082cb90e71d" /></a>
+</p>
 
-DADOS_NOAA
+Após processamento dos CSV's, criamos uma tabela auxiliar para armazenar todas as informações climatologicas, com resumos obtidos a partir da tabela *DADOS_CLIMA_GS_206_S1*
+<p align="center">
+<img width="850" height="784" alt="Image" src="https://github.com/user-attachments/assets/79e7c99f-0800-4c21-a956-7c6cf85cfef9" /></a>
+</p>
 
-HISTORICO_CHUVA
+*DF_CADASTRO_ESTACOES:* Tambem inserimos uma etapa para processamento das estações, gerando um resumo com registros cadastrais de todos os terminais metereologicos.
+<p align="center">
+<img width="996" height="631" alt="Image" src="https://github.com/user-attachments/assets/46b21e77-98c7-4aa4-9242-a842908d3085" /></a>
+</p>
+Etapa de carga da tabela DF_CADASTRO_ESTACOES no servidor FIAP
+<p align="center">
+<img width="861" height="691" alt="Image" src="https://github.com/user-attachments/assets/315e3629-0027-4cfc-b93a-a4782f40555a" /></a>
+</p>
 
-HISTORICO_TEMPERATURA
+*DADOS_NOAA:* Etapa de importação de dados do site <a href="https://www.cpc.ncep.noaa.gov/">NOAA Climate Prediction Center</a>, processamento das informações e armazenamento no servidor FIAP
+<p align="center">
+<img width="785" height="482" alt="Image" src="https://github.com/user-attachments/assets/c3b912c2-7206-4c98-9683-d7f1410f3061" /></a>
+</p>
 
-HISTORICO_UMIDADE
-
-HISTORICO_VENTOS
-
+As tabelas *HISTORICO_CHUVA, HISTORICO_TEMPERATURA, HISTORICO_UMIDADE e HISTORICO_VENTOS*, tambem são processadas individualmentes, reduzindo a quantidade de registros para utilização nos modelos preditivos
+<p align="center">
+<img width="797" height="640" alt="Image" src="https://github.com/user-attachments/assets/588c069e-95fb-4c96-b148-8bbebd15c6f7" /></a>
+</p>
 
 ## 📋 Licença
 
