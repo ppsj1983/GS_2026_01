@@ -70,7 +70,7 @@ Neste trabalho utilizamos duas fontes principais de dados, sendo
 ├── 📂 Dados NOAA (Monitoramento e medições mensais da temperatura do oceano Pacífico)
 │   ├── 📂 tab: DADOS_NOAA
 ```
-As imagens a seguir apresentam a estrutura de informações e tabelas de banco de dados
+## 🧠 Tabelas e Banco de Dados
 ---
 
 Imagem abaixo demonstra a estrutura do banco de dados, neste projeto, utilizamos 6 tabelas
@@ -112,8 +112,9 @@ Imagem abaixo demonstra a estrutura do banco de dados, neste projeto, utilizamos
 <img width="254" height="428" alt="Image" src="https://github.com/user-attachments/assets/24ddeb23-cb5c-47f3-8906-9227ecda07e8" /></a>
 </p>
 
+```bash
 ```
-As imagens a seguir apresentam a estrutura de informações e tabelas de banco de dados
+## 🧠 Processamento de Informações
 ---
 
 ## 📋 Licença
