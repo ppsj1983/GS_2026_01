@@ -116,6 +116,22 @@ Imagem abaixo demonstra a estrutura do banco de dados, neste projeto, utilizamos
 ```
 ## 🧠 Processamento de Informações
 ---
+No arquivo DADOS_INMET_NOAA.ipynb realizamos todo o processamento das informações e atualização das tabelas, durante cada etapa, inserimos testes para monitoramento de cada passo, conforme demonstrado a seguir
+
+DADOS_CLIMA_GS_206_S1
+
+DF_CADASTRO_ESTACOES
+
+DADOS_NOAA
+
+HISTORICO_CHUVA
+
+HISTORICO_TEMPERATURA
+
+HISTORICO_UMIDADE
+
+HISTORICO_VENTOS
+
 
 ## 📋 Licença
 
