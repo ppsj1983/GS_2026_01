@@ -13,7 +13,7 @@
 - <a href="https://www.linkedin.com/in/paulo-pereira-de-souza-junior-mba-msc-0b497825/">Paulo Pereira de Souza Junior</a>
 
 ## 👨‍🎓 Apresentacao: 
-- <a href="https://youtu.be/VY23rVfZaIM">Video Apresentação - YOUTUBE</a>
+- <a href="https://youtu.be/6IrO9j_jJ9E">Video Apresentação - YOUTUBE</a>
 
 ## 👩🏻‍💻 Como a Inteligência Artificial e as tecnologias digitais podem transformar a nova economia espacial e gerar impacto positivo na Terra?
 
