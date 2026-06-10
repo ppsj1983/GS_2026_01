@@ -1,7 +1,7 @@
 # FIAP - Faculdade de Informática e Administração Paulista
 
 <p align="center">
-<img width="200" height="50" alt="Image" src="https://github.com/user-attachments/assets/5746c27f-0276-4eb3-b7da-6f249578a58d" /></a>
+<img width="600" height="150" alt="Image" src="https://github.com/user-attachments/assets/5746c27f-0276-4eb3-b7da-6f249578a58d" /></a>
 </p>
 
 <br>
@@ -173,17 +173,25 @@ Tambem adicionamos uma função para exportação de mapas html
 
 ## 🧠 Resultados Obtidos 
 
+No teste de validação, a taxa de acerto global do algoritmo fixou-se em 77,75% para a previsão do cenário binomial de chuva, comprovando a robustez do modelo preditivo adaptado
+
 <p align="center">
 <img width="1163" height="257" alt="Image" src="https://github.com/user-attachments/assets/fbcdbed2-582a-42c8-963b-4342f30fc88a" /></a>
 </p>
+
+A análise climática baseada nos dados do El Niño para junho confirma que a região Sul do Brasil concentra os maiores índices pluviométricos. Importa destacar que as projeções do algoritmo estão alinhadas e convergem com os comportamentos históricos de precipitação locais.
 
 <p align="center">
 <img width="1377" height="669" alt="Image" src="https://github.com/user-attachments/assets/83657562-928d-4de3-8229-8bdcafe06809" /></a>
 </p>
 
+Através da análise da distribuição espacial do mapa, evidencia-se uma elevada concentração pluviométrica distribuída por todos os estados da região Sul.
+
 <p align="center">
 <img width="1193" height="876" alt="Image" src="https://github.com/user-attachments/assets/87818c2f-1d79-43a6-8e26-969ac23931e4" /></a>
 </p>
+
+A ferramenta geoespacial permite a análise simultânea de três variáveis preditivas: o volume estimado de precipitação (mm), a temperatura (°C) e a probabilidade percentual de ocorrência de chuva
 
 <p align="center">
 <img width="1413" height="857" alt="Image" src="https://github.com/user-attachments/assets/c989567d-36a7-4c2d-a6b4-855e6f27d8b6" /></a>
