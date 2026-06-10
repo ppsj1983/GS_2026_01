@@ -15,6 +15,9 @@
 ## 👨‍🎓 Apresentacao: 
 - <a href="https://youtu.be/6IrO9j_jJ9E">Video Apresentação - YOUTUBE</a>
 
+## 👨‍🎓 Git Hub: 
+- <a href="https://youtu.be/6IrO9j_jJ9E">GS 2026 1º Semestre</a>
+
 ## 👩🏻‍💻 Como a Inteligência Artificial e as tecnologias digitais podem transformar a nova economia espacial e gerar impacto positivo na Terra?
 
 ## 👩🏻‍💻 Linha de Pesquisa: Sistemas inteligentes de monitoramento climático utilizando dados espaciais
