@@ -16,7 +16,7 @@
 - <a href="https://youtu.be/6IrO9j_jJ9E">Video Apresentação - YOUTUBE</a>
 
 ## 👨‍🎓 Git Hub: 
-- <a href="https://youtu.be/6IrO9j_jJ9E">GS 2026 1º Semestre</a>
+- <a href="https://github.com/ppsj1983/GS_2026_01">GS 2026 1º Semestre</a>
 
 ## 👩🏻‍💻 Como a Inteligência Artificial e as tecnologias digitais podem transformar a nova economia espacial e gerar impacto positivo na Terra?
 
