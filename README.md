@@ -151,6 +151,14 @@ As tabelas *HISTORICO_CHUVA, HISTORICO_TEMPERATURA, HISTORICO_UMIDADE e HISTORIC
 
 Utilizamos o algoritmo Random Forest Classifier para a realização de previsões climatológicas. Este método foi aplicado para calcular as previsões climáticas considerando variáveis contínuas (Volume de Chuvas, Temperatura, Velocidade do Vento e Humidade) e, complementarmente, para a modelação binomial da probabilidade de ocorrência de chuva para um determinado mês.
 
+<p align="center">
+<img width="1074" height="787" alt="Image" src="https://github.com/user-attachments/assets/82b656f4-c084-4f37-88c3-ea366f0615a9" /></a>
+</p>
+
+## 🧠 Resultados Obtidos 
+
+
+
 ## 📋 Licença
 
 
