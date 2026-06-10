@@ -155,7 +155,30 @@ Utilizamos o algoritmo Random Forest Classifier para a realização de previsõe
 <img width="1074" height="787" alt="Image" src="https://github.com/user-attachments/assets/82b656f4-c084-4f37-88c3-ea366f0615a9" /></a>
 </p>
 
+## 🧠 Painel Streamlit
+
+No painel Streamlit foi adicionando um menu para seleção dos parametros simulação climatologica 
+
+<p align="center">
+<img width="1149" height="689" alt="Image" src="https://github.com/user-attachments/assets/c593f238-9d75-4764-988e-13048936e898" /></a>
+</p>
 ## 🧠 Resultados Obtidos 
+
+<p align="center">
+<img width="1413" height="857" alt="Image" src="https://github.com/user-attachments/assets/c989567d-36a7-4c2d-a6b4-855e6f27d8b6" /></a>
+</p>
+
+<p align="center">
+<img width="1193" height="876" alt="Image" src="https://github.com/user-attachments/assets/87818c2f-1d79-43a6-8e26-969ac23931e4" /></a>
+</p>
+
+<p align="center">
+<img width="1163" height="257" alt="Image" src="https://github.com/user-attachments/assets/fbcdbed2-582a-42c8-963b-4342f30fc88a" /></a>
+</p>
+
+<p align="center">
+<img width="1377" height="669" alt="Image" src="https://github.com/user-attachments/assets/83657562-928d-4de3-8229-8bdcafe06809" /></a>
+</p>
 
 
 
